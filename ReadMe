@@ -1,0 +1,3 @@
+This project is as hard as last one.
+First step is to set up AWS EMR with cluster and note book
+The next step is to upload dataset to S3, it costs a quite long time. I spend around 2 hours on uploading. 
